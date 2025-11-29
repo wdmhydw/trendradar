@@ -1,3 +1,8 @@
+中国
+昆明
+云南
+杭州
+
 DeepSeek
 
 千问
@@ -7,8 +12,8 @@ qwen
 雷军
 
 FLUX
-Comfyui
 
+X
 特斯拉
 马斯克
 
@@ -19,13 +24,6 @@ Microsoft
 NVIDIA
 黄仁勋
 
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
 chatgpt
 openai
 sora
@@ -34,21 +32,18 @@ ai
 !gai
 人工智能
 
-机器人
-
-中国
-美国
-日本
-韩国
-
-芯片
-光刻机
+电池
+固态电池
 
 科技
+数码
+消费电子
+
+游戏
+TGA
+电竞
 
 核能
-
-新质生产力
 
 月球
 登月
@@ -58,17 +53,28 @@ ai
 航空
 
 摄影
+
 设计
+视觉
+艺术
 
 小说
+网络文学
 起点
+番茄
 
 脱口秀
+付航
 
 NAS
-VPS
+群晖
+绿联
+飞牛
 
+心理学
 MBTI
 ESFP
 
+宠物
 柴犬
+养犬
